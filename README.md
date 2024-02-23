@@ -16,7 +16,7 @@ pip install phonenumbers
 How to Run
 1.	Clone this repository to your local machine:
 
-		git clone https://github.com/your-Roddy-N/phone-number-info.git
+		git clone https://github.com/Roddy-N/phone-number-info.git
 
 2.	Navigate to the project directory:
 
